@@ -8,3 +8,9 @@ body{
     height: 700px;
     margin: 0;
 }
+
+button{
+    background-color:#0c4fa2;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
